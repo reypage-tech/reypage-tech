@@ -34,7 +34,6 @@ Google スプレッドシート、Gmail、フォーム、ドライブの手作�
 
 見本はどれも架空のデータを使っています。実在の会社やアカウントとは関係ありません。
 
-サイト：https://reypage.pages.dev/automation/
 
 ---
 Reypage builds Google Apps Script automation for Sheets, Gmail, Forms and Drive.
