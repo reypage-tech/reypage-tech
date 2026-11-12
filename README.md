@@ -3,8 +3,8 @@
 Google スプレッドシート、Gmail、フォーム、ドライブの手作業を、Google Apps Script で自動にします。
 
 ## 経歴
-- 前の会社（プライム上場グループの会社）の営業組織で約3.5年、社内の業務を自動にするGASを作ってきました。他部署から依頼を受けて仕組みを作り、運用まで担当しました。
-- 自分で作った仕組みの一つは約2,700人に使われ、1人1日約1〜2時間（利用者アンケートでの回答）の事務作業が減りました。
+- プライム上場グループの会社の営業組織で働き、並行してGASで社内の仕組みを作ってきました。
+- 作った仕組みは組織全体（約2,700人）へ広げ、1人あたり1日30分〜1時間の作業を減らしました。
 
 ## 頼める仕事の例
 - メールやフォームの内容をシートへ転記
@@ -41,5 +41,5 @@ Google スプレッドシート、Gmail、フォーム、ドライブの手作�
 
 ---
 Reypage builds Google Apps Script automation for Sheets, Gmail, Forms and Drive.
-I built and ran Apps Script tools for about 3.5 years in the sales organization of my previous company, part of a Prime Market-listed group. One of them was used by around 2,700 people and users answered in a survey that it saved them about 1 to 2 hours a day.
+I worked in the sales organization of a company in a Prime Market-listed group, and in parallel I built internal systems with Google Apps Script. The system I built was rolled out across the organization (about 2,700 people) and cut about 30 minutes to 1 hour of work per person per day.
 All 11 sample repositories above use fictional data.
